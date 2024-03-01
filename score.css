@@ -290,6 +290,10 @@
         color: white;
         font-size: 18px;
     }
+    button:hover{
+        background-color: green;
+        color: rgb(140, 140, 226);
+    }
     .p1 {
         color: #303B59;
         font-weight:normal;
@@ -575,6 +579,10 @@
             border: none;
             color: white;
             font-size: 4.69px;
+        }
+        button:hover{
+            background-color: green;
+            color: rgb(140, 140, 226);
         }
         .p1 {
             color: #303B59;
